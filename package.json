@@ -1,0 +1,25 @@
+{
+  "name": "pack-py",
+  "displayName": "Pack Py",
+  "description": "VSCode Python Extension Pack",
+  "version": "1.0.0",
+  "publisher": "TMK04",
+  "license": "Apache-2.0",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-toolsai.jupyter",
+    "ms-toolsai.vscode-jupyter-powertoys",
+    "ms-python.python",
+    "KevinRose.vsc-python-indent",
+    "eeyore.yapf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TMK04/pack-py.git"
+  }
+}
